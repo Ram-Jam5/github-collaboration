@@ -1,3 +1,1 @@
-# This is gonna cause a problem
-## I mean just a real big issue
-### Hopefully you brought you're typing fingers.
+this is a test of the merge conflicts code
