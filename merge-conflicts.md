@@ -1,2 +1,1 @@
-andrew merge message
-akimender - should conflict with the other people's messages
+this is a test of the merge conflicts code
